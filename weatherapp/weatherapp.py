@@ -12,7 +12,7 @@ from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 
-API_KEY = "4318cef5c3845177e14987d2474e84f3"  
+API_KEY = ""  
 OWM_GEOCODE_URL = "http://api.openweathermap.org/geo/1.0/direct"
 OWM_CURRENT_URL = "https://api.openweathermap.org/data/2.5/weather"
 OWM_FORECAST_URL = "https://api.openweathermap.org/data/2.5/forecast"
@@ -531,4 +531,5 @@ def main():
     app.mainloop()
 
 if __name__ == "__main__":
+
     main()
