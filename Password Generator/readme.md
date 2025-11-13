@@ -1,4 +1,4 @@
-# 🔐 Advanced Password Generator (PyQt5)
+# 🔐 Password Generator (PyQt5)
 
 A powerful and secure **Password Generator GUI** built using **Python** and **PyQt5**.  
 This application allows users to create strong, customizable passwords with adjustable length, character types, exclusions, and automatic strength analysis.
